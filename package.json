@@ -1,0 +1,28 @@
+{
+  "name": "intro_cicd",
+  "version": "1.0.0",
+  "description": "npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ok-Sere/intro_CICD.git"
+  },
+  "keywords": [
+    "cicd",
+    "nodejs",
+    "express",
+    "github-actions"
+  ],
+  "author": "Ok-Sere",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ok-Sere/intro_CICD/issues"
+  },
+  "homepage": "https://github.com/Ok-Sere/intro_CICD#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
